@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228646112680",
+    "project_id": "notification-demo-b20c6",
+    "storage_bucket": "notification-demo-b20c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228646112680:android:40f3a8c5b533c75f2ba19d",
+        "android_client_info": {
+          "package_name": "com.push3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJA0_H_drD_sXLBsoKHGOSGDATKIl1zYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
